@@ -1,33 +1,49 @@
 <div align="center">
 
-# Hey, I'm Iago Inácio 👋
+# Iago Inácio 👋
 
-**Founder @ [ANANSE Business and Intelligence](https://www.anansebi.com/)**
+**Founder & Developer @ [ANANSE Business and Intelligence](https://www.anansebi.com/)**
 
-*Building AI-powered economic intelligence for everyone* 🇧🇷
+*Plataforma de inteligência econômica com IA — transformando dados públicos em decisões acionáveis* 🇧🇷
 
 [![Website](https://img.shields.io/badge/anansebi.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anansebi.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iagoinacio)
+[![Email](https://img.shields.io/badge/contato@anansebi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@anansebi.com)
 
 </div>
 
 ---
 
-### 🕸️ About Ananse BI
+## 🕸️ ANANSE Business and Intelligence
 
-**Ananse** is an economic intelligence platform that weaves scattered data threads into actionable insight — just like the West African spider of lore.
+**Ananse** é uma plataforma de inteligência econômica com narrativa visual imersiva — como a aranha da tradição oeste-africana, a IA tece fios de dados dispersos para revelar o desenho maior por trás do ruído.
 
-- 📊 **Real-time macro panel** — GDP, inflation (IPCA), Selic, unemployment, FX, Ibovespa and 19+ typed indicators
-- 🌎 **Geo-economic radar** — monitoring South America, North America, Europe, Africa & Asia
-- 🤖 **AI Cognitive Engine** — hybrid narrative powered by statistical models + LLMs with full transparency & explainability
-- 💡 **Consumer-friendly signals** — daily economic climate, pocket-impact index, personalized alerts
-- 📈 **Investment playbook** — market monitor with risk-profiled recommendations (conservative → dynamic)
+### 📊 Painel de Inteligência Econômica
 
-> *Data sources: BCB, World Bank, IBGE SIDRA, Ipeadata, Comex Stat, Tesouro Nacional, UNHCR, dados.gov.br & more.*
+> Monitoramento do Brasil, continentes e choques geopolíticos em tempo quase real.
+
+| Módulo | Descrição |
+|--------|-----------|
+| **Macro Intelligence** | PIB, Inflação (IPCA), Selic, Desemprego, Câmbio USD/BRL, Ibovespa — 19+ indicadores tipados com dados ao vivo |
+| **Radar Geoeconômico** | Monitoramento de 5 continentes: crescimento, inflação, juros, risco-país e pressão global |
+| **Motor Cognitivo (IA)** | Narrativas híbridas geradas por modelos estatísticos + LLMs com explicabilidade e governança transparente |
+| **Clima Econômico** | Termômetro diário simplificado: impacto no bolso, alertas personalizados, recomendações de consumo e crédito |
+| **Playbook de Investimento** | Monitor de ações, moedas, cripto, renda fixa e commodities com recomendações por perfil (conservador → dinâmico) |
+| **Briefing de Conjuntura** | Leitura guiada do cenário macro com sinais de curto prazo e vetores geopolíticos |
+
+### 🔌 Fontes de Dados Integradas
+
+`BCB` · `Banco Mundial` · `IBGE SIDRA` · `Ipeadata` · `Comex Stat` · `Tesouro Nacional` · `UNHCR` · `dados.gov.br` · `Eurostat` · `NewsAPI`
+
+> Cobertura ao vivo: ~83% dos indicadores | Fallback transparente para dados indisponíveis
+
+### 🤖 Integração IA
+
+Motor de análise econômica conversacional powered by **[Pollinations.ai](https://pollinations.ai/)** — gratuito para todos os usuários. Conecte sua conta e converse com o motor de inteligência da Ananse.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -44,19 +60,21 @@
 
 ---
 
-### 🔭 What I'm Working On
+## 🔭 What I'm Working On
 
-- 🚀 Scaling **Ananse BI** — expanding data coverage and AI-driven narratives
-- 🤝 Contributing to the **[Pollinations](https://github.com/pollinations/pollinations)** open-source Gen-AI platform
+- 🚀 Scaling **[Ananse BI](https://www.anansebi.com/)** — expandindo cobertura de dados e narrativas com IA
+- 🤝 Contributing to **[Pollinations](https://github.com/pollinations/pollinations)** — open-source Gen-AI platform
 - 🧪 Exploring open coding agents like **[OpenClaude](https://github.com/Gitlawb/openclaude)**
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iagoinacio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=iagoinacio&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iagoinacio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -66,6 +84,6 @@
 
 *"AI weaves threads of data to reveal the bigger picture behind the noise."*
 
-📬 **contato@anansebi.com**
+**ANANSE Business and Intelligence** · desde 2025 · Brazil 🇧🇷
 
 </div>
