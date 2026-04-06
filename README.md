@@ -64,7 +64,7 @@
 
 <div align="center">
 
-*"A IA tece fios de dados para revelar o desenho maior por trás do ruído."*
+*"AI weaves threads of data to reveal the bigger picture behind the noise."*
 
 📬 **contato@anansebi.com**
 
