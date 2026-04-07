@@ -16,7 +16,7 @@
 
 ## 🕸️ ANANSE Business and Intelligence
 
-**Ananse** is an AI-powered economic intelligence platform with immersive visual narrative — like the West African spider of lore, the AI weaves scattered data threads to reveal the bigger picture behind the noise.
+**anansebi.com** is an AI-powered economic intelligence platform with immersive visual narrative — like the West African spider of lore, the AI weaves scattered data threads to reveal the bigger picture behind the noise.
 
 ### 📊 Economic Intelligence Dashboard
 
