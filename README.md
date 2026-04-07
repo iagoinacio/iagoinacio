@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iago Inácio 👋
+# Iago Inácio 🕸️
 
 **Founder & Developer @ [ANANSE Business and Intelligence](https://www.anansebi.com/)**
 
